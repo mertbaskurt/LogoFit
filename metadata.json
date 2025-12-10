@@ -1,0 +1,5 @@
+{
+  "name": "LogoFit",
+  "description": "A minimal tool to fit and center logos into a specific 287x380 reference frame.",
+  "requestFramePermissions": []
+}
